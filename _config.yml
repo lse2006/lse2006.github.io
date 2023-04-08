@@ -20,7 +20,7 @@ title                    : "개발자 공부"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "lse2006"
-description              : "An amazing website."
+description              : "learn at all the time"
 url                      : "https://lse2006.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
